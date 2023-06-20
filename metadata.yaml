@@ -1,0 +1,31 @@
+_repo: Rogo-d-amore_70994
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neera
+    alias: Zuccari, Anna Radius
+    birthdate: 1846
+    deathdate: 1918
+    gutenberg_agent_id: '7687'
+    url: http://www.gutenberg.org/2009/agents/7687
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anna_Radius_Zuccari
+    - https://it.wikipedia.org/wiki/Neera_(scrittrice)
+description: ''
+gutenberg_issued: '2023-06-17'
+identifiers:
+  gutenberg: '70994'
+language: it
+pgterms:marc905: 20220705092845zuccari
+pgterms:marc906: '1914'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aItaly :$bTreves, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rogo d'amore
+url: http://www.gutenberg.org/ebooks/70994
